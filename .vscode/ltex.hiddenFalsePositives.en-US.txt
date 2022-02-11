@@ -1,0 +1,1 @@
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QThis analysis used PySpark to manage the analysis through Google Colab to conduct the analysis using Amazon Web Services (AWS) to manage the data transfer with our postgreSQL database.\\E$"}
